@@ -1,0 +1,2 @@
+# negotiation
+Projeto em TypeScript
